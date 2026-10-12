@@ -1,5 +1,6 @@
+    </main>
     <footer>
-        © <?= $anio ?> <?= $restaurante ?>. Todos los derechos reservados.
+         <?= $anio ?> <?= $restaurante ?>. Todos los derechos reservados.
     </footer>
 </body>
 </html>

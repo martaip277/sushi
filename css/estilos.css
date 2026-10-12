@@ -1,0 +1,31 @@
+/* Estilos comunes a todas las páginas */
+body {
+    margin: 0;
+    font-family: 'Montserrat', sans-serif;
+    background-color: #fdf6ec;
+    color: #333;
+    text-align: center;
+}
+
+header {
+    background-color: #af5d5d;
+    color: rgb(50, 1, 1);
+    padding: 15px 30px;
+}
+
+nav a {
+    color: rgb(221, 184, 184);
+    margin-right: 15px;
+    font-weight: bold;
+}
+
+main {
+    padding: 30px;
+}
+
+footer {
+    background-color: #222;
+    color: white;
+    text-align: center;
+    padding: 15px;
+}
