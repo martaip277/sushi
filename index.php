@@ -1,16 +1,5 @@
-<?php
-    $restaurante = "Sushi Zen";
-    $anio = 2026;
-?>
-<!DOCTYPE html>
-<html>
-<body>
-    <h1><?= $restaurante ?></h1>
+<?php include "includes/cabecera.php"; ?>
 
     <p>Bienvenido a nuestra web.</p>
 
-    <footer>
-         <?= $anio ?> <?= $restaurante ?>. Todos los derechos reservados.
-    </footer>
-</body>
-</html>
+<?php include "includes/pie.php"; ?>
