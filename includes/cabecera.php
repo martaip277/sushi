@@ -11,4 +11,9 @@
 <body>
     <header>
         <h1><?= $restaurante ?></h1>
+        <nav>
+            <a href="index.php">Inicio</a>
+            <a href="perfil.php">Perfil</a>
+            <a href="login.php">Login</a>
+        </nav>  
     </header>
